@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: auto;
+  margin: auto;
+}
+
+.box {
+  display: flex;
+  flex: 30%;
+  justify-content: space-around;
+}
+.grid-1 {
+  border: solid 1px red;
+  padding: 10rem 8rem;
+}
